@@ -1,0 +1,2 @@
+agrello 的wp 看了一遍 想办法用最简单的话 说明白这是干嘛的 开始： agrello 要做一个自动化smart contract框架 什么意思 框架就是提供提前定义可以直接使用smart contract template。 怎么自动化？ agrello定义了标准化流程 并在smart contract之上抽象化定义了Self-Aware Contracts（自我意识合同）上例子：一个租房子的合同 在agrello上可以写出一套业务流程， 签合同， 履行各自义务， 合同结束 或者存在争议 仲裁之类的 这些都是agrello 已经帮你写好的 这种具有自我行动能力的合同 被他们称为SAC。 用户需要写的是业务逻辑 比如：租房中介会具体指明只租给收入大于500的人 ：而这个书写业务逻辑是用agrello上面自己开发的语言eSourcing
+Markup Language 这种类似于XML这种语言。总结：看的出来用agrello框架主要是B端用户（希望简化开发流程的商家） 可以快速搭建SAC并通过tanslator （翻译）并部署到不同区块链中 或者相对的小白开发者 可以学习他们的eSML来开发业务逻辑。
