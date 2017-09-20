@@ -3,3 +3,12 @@
 链接：https://blog.stephantual.com/web-3-0-revisited-part-one-across-chains-and-across-protocols-4282b01054c5
 链接：https://ethereum.stackexchange.com/questions/16911/what-is-polkadot-in-laymans-terms
 链接：http://www.rsk.co/blog/sidechains-drivechains-and-rsk-2-way-peg-design
+
+
+https://aion.network/downloads/aion.network-technical-introduction_en.pdf 
+
+https://www.youtube.com/watch?v=_aLmzq-23pE
+
+https://www.youtube.com/watch?v=z8INzy9E628
+
+https://medium.com/@jeffzoch/ark-vs-aion-a-comparison-of-two-blockchain-bridging-efforts-b513094381ca
